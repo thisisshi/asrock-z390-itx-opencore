@@ -3,6 +3,8 @@
 MacOS Catalina 10.15.4
 Opencore 0.5.8
 
+![neofetch](https://raw.githubusercontent.com/thisisshi/asrock-z390-itx-opencore/master/neofetch.png)
+
 ### Benchmarks
 
 - [Geekbench](https://browser.geekbench.com/v5/cpu/2136246)
